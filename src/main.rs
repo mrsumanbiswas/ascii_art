@@ -24,5 +24,5 @@ fn get_image(dir: &str, scale: u32) {
 }
 
 fn main() {
-    get_image("/home/suman/Pictures/89653112.png", 5);
+    get_image("image.png", 1);
 }
